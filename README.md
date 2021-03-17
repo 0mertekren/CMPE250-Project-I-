@@ -1,7 +1,4 @@
 # CMPE 250 Fall 20 - Project 1
- 
-Starter code
+Summary: Program executes on two teams in a fun war. Each team includes many different characters with 5 different types such as Elves, Dwarves... According to attributes and individual fights among teams, the result of the war is determined.
 
-- Characters are stored in class Character array 
-- Tried to implement flexible code with defines etc.
-- Tried to store the indices of Character array so that it would be less data
+Please check the description file for more information
